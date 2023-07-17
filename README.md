@@ -13,7 +13,9 @@ using:
 Generate random graphs for at least 10 different values ​​of n with densities d = 0.2 and 0.4.
 
 Task 1. Measure the duration of the label calculation step depending on the number n.
+
 Task 2. Count return arcs depending on the number n and the density for every graph representation.
+
 Task 3. For every graph representation calculate the duration of the return arc counting step depending on the number n and the density.
 
 
