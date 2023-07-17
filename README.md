@@ -1,4 +1,5 @@
 Graph representations
+-----------------
 
 Implement a topological sorting method that works in 2 distinct stages:
 - Calculating "put on stack" and "take off stack" labels for each vertex.
@@ -10,7 +11,7 @@ using:
 - a list of successors
 - an arcs list.
   
-Generate random graphs for at least 10 different values ​​of n with densities d = 0.2 and 0.4.
+Generate random directed graphs for at least 10 different values ​​of n with densities d = 0.2 and 0.4.
 
 Task 1. Measure the duration of the label calculation step depending on the number n.
 
